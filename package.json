@@ -1,0 +1,22 @@
+{
+  "name": "hv-switching-plan-css092",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.13",
+    "html2pdf.js": "^0.10.1",
+    "file-saver": "^2.0.5",
+    "lucide-react": "^0.275.0",
+    "react-icons": "^4.10.1"
+  }
+}
